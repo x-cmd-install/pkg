@@ -5,15 +5,15 @@ about:
   head: 9066cee
   archived: true
   latestVersion: "5.8.1"
-  collectedAt: 2026-09-07T04:52:17Z
+  collectedAt: 2026-09-07T19:34:35Z
 timeline:
   created: 2016-08-08
   lastCommit: 2024-01-03
   lastRelease: 2023-03-08
 popularity:
-  star: 24347
+  star: 24345
   watcher: 34
-  fork: 1071
+  fork: 1072
   release: 41
   contributor: 136
   pullRequest: 292
@@ -85,7 +85,7 @@ total:
   commit: 1139
 ---
 path: /home/runner/.x-repo/github.com/vercel/pkg
-collectedAt: 2026-09-07T04:52:20Z
+collectedAt: 2026-09-07T19:34:41Z
 loc:
   JavaScript:
     code: 16952
@@ -233,7 +233,7 @@ checks:
       - 'Warn: 0 commits out of 27 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:52:20+00:00
+  collectedAt: 2026-09-07T19:34:42+00:00
   platform:
     darwin/arm64:
       name:  null
