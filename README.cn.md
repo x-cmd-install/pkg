@@ -6,7 +6,7 @@
 
 Package your Node.js project into an executable
 
-![pkg](https://repo.x-cmd.io/pkg.svg)
+![pkg](https://repo.x-cmd.io/pkg.svg?lang=zh)
 
 ## 安装
 
@@ -24,11 +24,10 @@ x install pkg
 
 - **最新版本**: `5.8.1` (2023-03-08)
 - **最近提交**: 2024-01-03
-- **发布时间**: 2023-03-08T01:19:58Z
 
 ## 流行度
 
-- **Star**: 24,343 · **Fork**: 1,070 · **开放 issue**: 1,424 · **贡献者**: 136
+- **Star**: 24,342 · **Fork**: 1,070 · **开放 issue**: 1,424 · **贡献者**: 136
 
 ## 累计统计
 
@@ -73,4 +72,4 @@ pkg 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:57:04Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:54:15Z._
