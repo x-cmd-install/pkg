@@ -7,7 +7,7 @@ about:
   latestVersion: "5.8.1"
   latestRelease: "5.8.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:09:36Z
+  collectedAt: 2026-09-11T05:04:43Z
 timeline:
   created: 2016-08-08
   lastCommit: 2024-01-03
@@ -89,7 +89,7 @@ total:
   commit: 1139
 ---
 path: /home/runner/.x-repo/github.com/vercel/pkg
-collectedAt: 2026-09-11T00:09:40Z
+collectedAt: 2026-09-11T05:04:45Z
 loc:
   JavaScript:
     code: 16952
